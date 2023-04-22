@@ -1,0 +1,16 @@
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.csproj.AssemblyReference.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.AddPokemon.resources
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.Properties.Resources.resources
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.csproj.GenerateResource.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.WinApp.exe.config
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.WinApp.exe
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.WinApp.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.exe
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.BizLogic.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.Models.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.BizLogic.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\bin\Debug\Haven.Summerfield.Models.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.WinApp\obj\Debug\Haven.Summerfield.WinApp.csproj.CopyComplete

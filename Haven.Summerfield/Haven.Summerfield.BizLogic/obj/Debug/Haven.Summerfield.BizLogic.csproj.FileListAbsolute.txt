@@ -1,0 +1,9 @@
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\bin\Debug\Haven.Summerfield.BizLogic.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\bin\Debug\Haven.Summerfield.BizLogic.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\bin\Debug\Haven.Summerfield.Models.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\bin\Debug\Haven.Summerfield.Models.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\obj\Debug\Haven.Summerfield.BizLogic.csproj.AssemblyReference.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\obj\Debug\Haven.Summerfield.BizLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\obj\Debug\Haven.Summerfield.BizLogic.csproj.CopyComplete
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\obj\Debug\Haven.Summerfield.BizLogic.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.BizLogic\obj\Debug\Haven.Summerfield.BizLogic.pdb

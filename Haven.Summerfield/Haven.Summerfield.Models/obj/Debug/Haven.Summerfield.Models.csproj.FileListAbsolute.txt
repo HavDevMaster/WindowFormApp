@@ -1,0 +1,6 @@
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\bin\Debug\Haven.Summerfield.Models.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\bin\Debug\Haven.Summerfield.Models.pdb
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\obj\Debug\Haven.Summerfield.Models.csproj.AssemblyReference.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\obj\Debug\Haven.Summerfield.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\obj\Debug\Haven.Summerfield.Models.dll
+C:\Users\Mandie\source\repos\Haven.Summerfield\Haven.Summerfield.Models\obj\Debug\Haven.Summerfield.Models.pdb
